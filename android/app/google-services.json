@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "130683228773",
+    "project_id": "match-it-92d42",
+    "storage_bucket": "match-it-92d42.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:130683228773:android:39d9cbb43ae93567066c8c",
+        "android_client_info": {
+          "package_name": "com.panda.lance"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "130683228773-neh7fvjtn640hgker9sj2nrgttlf9rhv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_Td9aQ2-JvPHKNvmGULU2oew8o0xkNnQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "130683228773-neh7fvjtn640hgker9sj2nrgttlf9rhv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
